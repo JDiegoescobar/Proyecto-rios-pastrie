@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧁 Ríos Pastries
 
 Sistema Web para la Gestión de Pedidos y Eventos
@@ -23,3 +24,6 @@ python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python main.py
+=======
+# Proyecto-rios-pastrie
+>>>>>>> b876ba51067a7c4560ae16dce205f6c0e8299b5f
